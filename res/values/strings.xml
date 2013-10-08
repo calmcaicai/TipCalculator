@@ -4,5 +4,9 @@
     <string name="app_name">TipCalculator</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-
+	<string name="tip_string">Tips: </string>
+	<string name="bt10">10%</string>
+	<string name="bt15">15%</string>
+	<string name="bt20">20%</string>
+	<string name="etHint">Input Total Amount</string>
 </resources>
